@@ -1,4 +1,4 @@
- var canvas = document.getElementById("myCanvas");
+        var canvas = document.getElementById("myCanvas");
         var ctx = canvas.getContext("2d");
         var ballRadius = 8;
         var x = canvas.width/2;
